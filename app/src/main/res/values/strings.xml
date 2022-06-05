@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">vKalkulator</string>
+<!--    <string name="jeden">1</string>-->
+<!--    <string name="dwa">2</string>-->
+<!--    <string name="trzy">3</string>-->
+<!--    <string name="cztery">4</string>-->
+<!--    <string name="piec">5</string>-->
+<!--    <string name="szesc">6</string>-->
+<!--    <string name="siedem">7</string>-->
+<!--    <string name="osiem">8</string>-->
+<!--    <string name="dziewiec">9</string>-->
+<!--    <string name="dziesiec">0</string>-->
+
+<!--    <string name="mikrofon">0</string>-->
+
+<!--    <string name="plus">+</string>-->
+<!--    <string name="minus">-</string>-->
+<!--    <string name="mnozenie">*</string>-->
+<!--    <string name="dzielenie">\</string>-->
+
+<!--    <string name="rowne">=</string>-->
+
+</resources>

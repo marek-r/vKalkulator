@@ -1,0 +1,6 @@
+com/example/vkalkulator/BuildConfig.java
+ com.example.vkalkulator.BuildConfig
+com/example/vkalkulator/MainActivity.java
+ com.example.vkalkulator.MainActivity
+ com.example.vkalkulator.MainActivity$1
+ com.example.vkalkulator.MainActivity$2
